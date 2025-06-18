@@ -1,0 +1,28 @@
+{
+    "global": {
+        "create": "Create",
+        "save": "Save",
+        "add": "Add",
+        "cancel": "Cancel",
+        "delete": "Delete",
+        "showMore": "Show more"
+    },
+    "account": {
+        "account": "Account",
+        "changePassword": "Change password",
+        "myAccount": "My account",
+        "uploadYourProfilePicture": "Upload your profile picture",
+        "change": "Change",
+        "username": "Username",
+        "edit": "Edit",
+        "emailAddressCannotBeChanged": "Email address *cannot be changed",
+        "deleteAccount": "Delete account",
+        "accountDeletionNotice": "After deleting your account, you will no longer be able to access any artworks or log into the Curator digital streaming platform. Your Curator account was created on December 30, 2024, at 4:15 PM.",
+        "currentPassword": "Current password*",
+        "newPassword": "New password*",
+        "thisFieldIsRequired": "This field is required.",
+        "yourProfilePictureMustBeAtLeast500x500px": "Your profile picture must be at least 500 × 500px.",
+        "incorrectOldPassword": "Incorrect old password.",
+        "logoutSuccessfully": "Logout successfully"
+    }
+}
