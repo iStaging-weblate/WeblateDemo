@@ -1,0 +1,28 @@
+{
+    "global": {
+        "create": "",
+        "save": "",
+        "add": "",
+        "cancel": "",
+        "delete": "",
+        "showMore": ""
+    },
+    "account": {
+        "account": "",
+        "changePassword": "",
+        "myAccount": "",
+        "uploadYourProfilePicture": "",
+        "change": "",
+        "username": "",
+        "edit": "",
+        "emailAddressCannotBeChanged": "",
+        "deleteAccount": "",
+        "accountDeletionNotice": "",
+        "currentPassword": "",
+        "newPassword": "",
+        "thisFieldIsRequired": "",
+        "yourProfilePictureMustBeAtLeast500x500px": "",
+        "incorrectOldPassword": "",
+        "logoutSuccessfully": ""
+    }
+}
