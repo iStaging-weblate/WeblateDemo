@@ -5,7 +5,8 @@
         "add": "Add",
         "cancel": "Cancel",
         "delete": "Delete",
-        "showMore": "Show more"
+        "showMore": "Show more",
+        "ttt": "tttt"
     },
     "account": {
         "account": "Account",
